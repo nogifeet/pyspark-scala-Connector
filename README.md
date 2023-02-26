@@ -5,6 +5,18 @@
 This project is a demonstration of how to use Pyspark as a wrapper around Scala Class/Methods. 
 JVM present in sparkContext will be used to convert into JavaObjects.
 
+## Package Structure
+
+├── README.md
+├── build.sbt
+├── makePython.sh
+├── scripts
+│ └── callScalaClass.py
+│ └── main.sh
+├── src/main/scala/jsl/tasks
+│ └── PythonHelper.scala
+
+
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/username/project-name.git`
