@@ -7,7 +7,7 @@ JVM present in sparkContext will be used to convert into JavaObjects.
 
 ## Package Structure
 
-![image](https://user-images.githubusercontent.com/72322393/221418917-dee8bf42-0394-41e6-ba0c-0c187c0b4fd3.png)
+![image](https://github.com/nogifeet/pyspark-scala-Connector/blob/main/dir.jpg)
 
 ## Installation
 
