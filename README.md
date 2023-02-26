@@ -11,7 +11,7 @@ JVM present in sparkContext will be used to convert into JavaObjects.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/username/project-name.git`
+1. Clone the repository: `git clone https://github.com/nogifeet/pyspark-scala-Connector`
 2. Navigate to the project directory: cd pyspark-scala-Connector/
 3. Install Python dependencies: sh makePython.sh
 4. Build jar: sbt package
