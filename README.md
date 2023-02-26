@@ -7,15 +7,7 @@ JVM present in sparkContext will be used to convert into JavaObjects.
 
 ## Package Structure
 
-├── README.md
-├── build.sbt
-├── makePython.sh
-├── scripts
-│ └── callScalaClass.py
-│ └── main.sh
-├── src/main/scala/jsl/tasks
-│ └── PythonHelper.scala
-
+![image](https://user-images.githubusercontent.com/72322393/221418917-dee8bf42-0394-41e6-ba0c-0c187c0b4fd3.png)
 
 ## Installation
 
