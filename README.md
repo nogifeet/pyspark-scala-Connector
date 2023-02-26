@@ -1,10 +1,6 @@
 # Build and Execution Steps:
 
-## Run Shell Script 
-cd scripts/
-sh main.sh $jar_file_path $spark_submit_path $inputPath $outputPath
-
-# Build and Execution Steps:
+## Introdution
 
 This project is a demonstration of how to use Pyspark as a wrapper around Scala Class/Methods. 
 JVM present in sparkContext will be used to convert into JavaObjects.
