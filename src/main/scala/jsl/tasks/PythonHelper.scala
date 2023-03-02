@@ -21,7 +21,6 @@ class SimpleClass(sqlContext: SQLContext, inputDir: String) {
     val dfData = df.withColumn("data",explode(col("data")))
 
     val dfExtract = dfData.withColumn("questionID",col("data").getItem("questionId"))
-    .withColumn("questionID",col("data").getItem("questionId"))
     .withColumn("question",col("data").getItem("question"))
     .withColumn("image",col("data").getItem("image"))
     .withColumn("docId",col("data").getItem("docId"))
